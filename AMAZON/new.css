@@ -1,0 +1,13 @@
+/* #parent{
+    background-color: rgb(162, 162, 211);
+    white-space: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+.child{
+    height: 300px;
+    width: 300px;
+    background-color: salmon;
+    margin: 10px;
+    display: inline-block;
+} */
